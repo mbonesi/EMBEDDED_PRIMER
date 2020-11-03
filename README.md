@@ -1,5 +1,5 @@
 # EMBEDDED_PRIMER
-here is where I collect information on Embedded SW development for Automotive
+here is where I collect information on Embedded SW development for Embedded system for Automotive
 
   
 * **CAN BUS PRIMER:** https://microcontroller.com/CAN_(Controller_Area_Network):_Introduction_and_Fundamentals.htm

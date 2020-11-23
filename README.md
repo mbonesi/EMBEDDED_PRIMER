@@ -9,3 +9,5 @@ here is where I collect information on Embedded SW development for Embedded syst
 * **Embedded Systems - Shape The World (VIDEOLESSONS):** http://users.ece.utexas.edu/~valvano/Volume1/E-Book/VideoLinks.htm
 * **ADC in ST controllers:** https://deepbluembedded.com/stm32-adc-tutorial-complete-guide-with-examples/
 * **STM32 Tutorials, “ARM-Based Microcontrollers Programming For Embedded Systems Enthusiasts”:** https://deepbluembedded.com/stm32-arm-programming-tutorials/#_STM32_Course_Table_OF_Contents
+* **FFT on arrays of data:** https://rosettacode.org/wiki/Fast_Fourier_transform
+* **"The Goertzel Algorithm":** https://www.embedded.com/the-goertzel-algorithm/

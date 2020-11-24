@@ -12,3 +12,4 @@ here is where I collect information on Embedded SW development for Embedded syst
 * **FFT on arrays of data:** https://rosettacode.org/wiki/Fast_Fourier_transform
 * **"The Goertzel Algorithm":** https://www.embedded.com/the-goertzel-algorithm/
 * **Interpretazione dell'output della DFT:** https://www.vialattea.net/content/587/
+* **PYTHON!!:** https://www.coursera.org/learn/python-programming-introduction

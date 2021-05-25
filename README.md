@@ -14,4 +14,4 @@ here is where I collect information on Embedded SW development for Embedded syst
 * **Interpretazione dell'output della DFT:** https://www.vialattea.net/content/587/
 * **PYTHON!!:** https://www.coursera.org/learn/python-programming-introduction
 * **Raspberry SenseHAT:** https://www.raspberryitaly.com/programmiamo-sense-hat/
-* **UnitTesting for the embedded usint CppUTest: ** https://interrupt.memfault.com/blog/unit-testing-basics
+* **UnitTesting for the embedded usint CppUTest:** https://interrupt.memfault.com/blog/unit-testing-basics

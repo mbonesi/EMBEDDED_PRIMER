@@ -1,7 +1,7 @@
 # EMBEDDED_PRIMER
 here is where I collect information on Embedded SW development for Embedded system for Automotive
 
-  
+* **AUTOSAR Enthusiasts and beginners in Automotive Software:** https://www.autoeconnect.com/stayconnected  
 * **CAN BUS PRIMER:** https://microcontroller.com/CAN_(Controller_Area_Network):_Introduction_and_Fundamentals.htm
 * **BRIEF CAN TUTORIAL:** https://www.computer-solutions.co.uk/info/Embedded_tutorials/can_tutorial.htm
 * **BARE METAL to main() blog:** https://interrupt.memfault.com/blog/tags#zero-to-main

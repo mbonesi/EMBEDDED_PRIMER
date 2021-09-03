@@ -1,5 +1,6 @@
 # EMBEDDED_PRIMER
 here is where I collect information on Embedded SW development for Embedded system for Automotive
+* **AUTOSAR background and workflow WIKI (start here): ** https://automotive.wiki/index.php/Variable_data_prototype
 * **INITIALIZE THE ROUTING TABLE PduR:** https://www.programmersought.com/article/13916993270/
 * **AUTOSAR Enthusiasts and beginners in Automotive Software:** https://www.autoeconnect.com/stayconnected  
 * **CAN BUS PRIMER:** https://microcontroller.com/CAN_(Controller_Area_Network):_Introduction_and_Fundamentals.htm

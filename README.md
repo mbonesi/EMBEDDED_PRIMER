@@ -16,3 +16,4 @@ here is where I collect information on Embedded SW development for Embedded syst
 * **PYTHON!!:** https://www.coursera.org/learn/python-programming-introduction
 * **Raspberry SenseHAT:** https://www.raspberryitaly.com/programmiamo-sense-hat/
 * **UnitTesting for the embedded usint CppUTest:** https://interrupt.memfault.com/blog/unit-testing-basics
+* **PIPICO Python 1st steps:** https://dev.to/blues/your-first-steps-with-raspberry-pi-pico-and-visual-studio-code-4jbd

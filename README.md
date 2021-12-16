@@ -20,3 +20,4 @@ here is where I collect information on Embedded SW development for Embedded syst
 * **WordPress and MariadB via Docker on OMV5-Pi:** https://pcmac.biz/wordpress-on-openmediavault-raspberry-pi/
 * **DOCKER for Embedded Devleopers:** https://blog.feabhas.com/2017/09/introduction-docker-embedded-developers-part-1-getting-started/
 * **TDD on the Embedded.** https://dmitryfrank.com/articles/unit_testing_embedded_c_applications
+* **Automating the State Machines:** https://www.itemis.com/en/yakindu/state-machine/
